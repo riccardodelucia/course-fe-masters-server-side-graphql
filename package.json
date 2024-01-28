@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-graphql",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "> Learn how to use GraphQL with Node and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riccardodelucia/fullstack-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riccardodelucia/fullstack-graphql/issues"
+  },
+  "homepage": "https://github.com/riccardodelucia/fullstack-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6",
+    "lowdb": "^5.0.5",
+    "nanoid": "^4.0.0"
+  }
+}

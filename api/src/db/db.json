@@ -1,0 +1,10 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pets": [
+    { "id": "1", "createdAt": "1", "name": "Spike", "type": "dog" },
+    { "id": "2", "createdAt": "2", "name": "Charlie", "type": "cat" }
+  ]
+}
